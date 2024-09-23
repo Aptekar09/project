@@ -15,8 +15,8 @@ def clear_names(file_name: str) -> list:
     return new_list_names
 
 
-if __name__ == "__main__":
-    clear_name = clear_names('names.txt')
+#if __name__ == "__main__":
+   # clear_name = clear_names('names.txt')
 
-    for i in clear_name:
-        print(i)
+   # for i in clear_name:
+       # print(i)
